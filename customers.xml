@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">customer_code</Data></Cell>
+			<Cell><Data ss:Type="String">custmer_name</Data></Cell>
+			<Cell><Data ss:Type="String">customer_type</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Cus001</Data></Cell>
+			<Cell><Data ss:Type="String">Surge Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus002</Data></Cell>
+			<Cell><Data ss:Type="String">Nomad Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus003</Data></Cell>
+			<Cell><Data ss:Type="String">Excel Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus004</Data></Cell>
+			<Cell><Data ss:Type="String">Surface Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus005</Data></Cell>
+			<Cell><Data ss:Type="String">Premium Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus006</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsara Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus007</Data></Cell>
+			<Cell><Data ss:Type="String">Info Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus008</Data></Cell>
+			<Cell><Data ss:Type="String">Acclaimed Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus009</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsquipo Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus010</Data></Cell>
+			<Cell><Data ss:Type="String">Atlas Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus011</Data></Cell>
+			<Cell><Data ss:Type="String">Flawless Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus012</Data></Cell>
+			<Cell><Data ss:Type="String">Integration Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus013</Data></Cell>
+			<Cell><Data ss:Type="String">Unity Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus014</Data></Cell>
+			<Cell><Data ss:Type="String">Forward Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus015</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsbea Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus016</Data></Cell>
+			<Cell><Data ss:Type="String">Logic Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus017</Data></Cell>
+			<Cell><Data ss:Type="String">Epic Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus018</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalslance Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus019</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsopedia Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Brick & Mortar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus020</Data></Cell>
+			<Cell><Data ss:Type="String">Nixon</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus021</Data></Cell>
+			<Cell><Data ss:Type="String">Modular</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus022</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalslytical</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus023</Data></Cell>
+			<Cell><Data ss:Type="String">Sound</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus024</Data></Cell>
+			<Cell><Data ss:Type="String">Power</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus025</Data></Cell>
+			<Cell><Data ss:Type="String">Path</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus026</Data></Cell>
+			<Cell><Data ss:Type="String">Insight</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus027</Data></Cell>
+			<Cell><Data ss:Type="String">Control</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus028</Data></Cell>
+			<Cell><Data ss:Type="String">Sage</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus029</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsocity</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus030</Data></Cell>
+			<Cell><Data ss:Type="String">Synthetic</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus031</Data></Cell>
+			<Cell><Data ss:Type="String">Zone</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus032</Data></Cell>
+			<Cell><Data ss:Type="String">Elite</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus033</Data></Cell>
+			<Cell><Data ss:Type="String">All-Out</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus034</Data></Cell>
+			<Cell><Data ss:Type="String">Expression</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus035</Data></Cell>
+			<Cell><Data ss:Type="String">Relief</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus036</Data></Cell>
+			<Cell><Data ss:Type="String">Novus</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus037</Data></Cell>
+			<Cell><Data ss:Type="String">Propel</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cus038</Data></Cell>
+			<Cell><Data ss:Type="String">Leader</Data></Cell>
+			<Cell><Data ss:Type="String">E-Commerce</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
